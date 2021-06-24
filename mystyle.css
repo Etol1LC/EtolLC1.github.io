@@ -13,8 +13,7 @@ body {
   color: white;
   font-family: monospace;
   font-size: 20px;
-  /*padding-top: 20px;*/
-  padding-bottom: 50px;
+  padding-top: 20px;
 }
 
 .ind1 {
@@ -43,8 +42,8 @@ body {
   padding-bottom: 30px;*/
 }
 
-a {
-  /*padding-top: 20px;*/
+.lin {
+  padding-bottom: 50px;
   color: white;
   font-family: monospace;
 }
