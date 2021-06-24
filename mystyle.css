@@ -3,7 +3,7 @@ body {
   display: block;
   margin: auto;
   border-style: solid;
-  border-width: 4px;
+  border-width: 2px;
   border-color: white;
 }
 
@@ -37,22 +37,22 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
-  /*padding-left: 40px;
-  padding-bottom: 30px;*/
+  width: auto;
+  height: auto;
 }
 
 .lin {
   padding-bottom: 50px;
   color: white;
   font-family: monospace;
+  font-size: 15px;
 }
 
 .p1 {
   color: white;
   text-align: justify;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 2px;
+  padding-right: 2px;
   padding-top: 10px;
   padding-bottom: 50px;
   font-family: monospace;
