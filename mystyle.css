@@ -1,5 +1,5 @@
 html {
-  width: auto;
+  width: 100% auto;
 }
 
 
@@ -10,6 +10,7 @@ body {
   border-width: 2px;
   border-color: white;
   width: auto;
+  background-size: 100% auto;
 }
 
 .ind {
