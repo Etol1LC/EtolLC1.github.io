@@ -34,7 +34,7 @@ body {
 }
 
 .ima {
-  display: black;
+  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
