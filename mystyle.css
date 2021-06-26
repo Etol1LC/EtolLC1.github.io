@@ -1,11 +1,11 @@
 
 body {
   display: black;
-  margin: auto;
+  margin: 0px;
   border-style: solid;
   border-width: 2px;
   border-color: white;
-  height: 80%
+  height: 100vh
 }
 
 .ind {
