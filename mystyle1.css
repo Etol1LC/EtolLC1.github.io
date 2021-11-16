@@ -65,6 +65,8 @@ footer li{
 
 .contact ul {
     list-style: none;
+    text-align: justify;
+    padding: 0 50%;
 }
 
 img {
