@@ -39,9 +39,10 @@ body, html {
     padding: 0 0 10px 0;
     width: 100%;
     height: auto;
-    animation-name: im;
+    /*animation-name: im;
     animation-duration: 0.04s;
     animation-iteration-count: infinite;
+    */
 }
 
 @keyframes im {
