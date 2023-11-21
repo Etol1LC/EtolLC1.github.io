@@ -15,9 +15,9 @@ body, html {
 .title {
     text-align: center;
     color: #FFFFFF;
-    animation-name: letcol;
-    animation-duration: 0.01s;
-    animation-iteration-count: infinite;
+    /*animation-name: letcol;
+    animation-duration: 0.1s;
+    animation-iteration-count: infinite;*/
 }
 
 @keyframes letcol {
@@ -31,7 +31,7 @@ body, html {
     width: 100%;
     height: auto;
     animation-name: im;
-    animation-duration: 0.01s;
+    animation-duration: 0.04s;
     animation-iteration-count: infinite;
 }
 
@@ -76,9 +76,9 @@ footer li{
 .content {
     text-align: justify;
     color: #FFFFFF;
-    animation-name: letcol;
+    /*animation-name: letcol;
     animation-duration: 0.01s;
-    animation-iteration-count: infinite; 
+    animation-iteration-count: infinite;*/ 
 
 }
 
@@ -92,6 +92,9 @@ footer li{
     padding-bottom: 8px;
     padding-left: 8px;
     padding-right: 8px;
+    animation-name: bor;
+    animation-duration: 0.01s;
+    animation-iteration-count: infinite;
 
 }
 
