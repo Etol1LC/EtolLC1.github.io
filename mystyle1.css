@@ -108,6 +108,10 @@ footer li{
 */
 }
 
+.content li {
+    margin-bottom: 8px;
+}
+
 .contact {
     text-align: center;
     color: #FFFFFF;
@@ -149,12 +153,12 @@ div.gallery {
     float: left;
     width: 180px;
 }
-
+/*
   div.gallery:hover {
-    /*border: 1px solid #777;*/
-  }
+    border: 1px solid #777;
   
- /* div.gallery img {
+  
+  div.gallery img {
     width: 100%;
     height: auto;
   }
