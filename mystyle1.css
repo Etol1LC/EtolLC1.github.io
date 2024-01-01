@@ -1,9 +1,12 @@
 body, html {
     background-color: black;
+    color: #0F0;
     margin: 0;
     padding: 0;
     font-family: 'Courier New', Courier, monospace;
-    font-style: italic;
+    font-style: normal;
+    font-weight: normal;
+    text-shadow: 0 0 10px #0F0;
 }
 
 /*canvas {
@@ -19,11 +22,15 @@ body, html {
     margin: 0 auto;
     padding: 0 20px 0 20px;
     max-width: 900px;
+    background-color: black;
+    border: solid 2px #0F0;
+    text-shadow: 0 0 10px #0F0;
 }
 
 .title {
     text-align: center;
-    color: #FFFFFF;
+    color: #0F0;
+    text-shadow: 0 0 10px #0F0;
     /*animation-name: letcol;
     animation-duration: 0.1s;
     animation-iteration-count: infinite;*/
@@ -52,17 +59,20 @@ body, html {
 */
 .links {
     text-align: center;
-    color: #FFFFFF;
+    color: #0F0;
+    text-shadow: 0 0 10px #0F0;
 }
 
 a {
-    color: #FFFFFF;
+    color: #0F0;
     font-weight: bold;
+    text-shadow: 0 0 10px #0F0;
 }
 
 footer {
-    color: #FFFFFF;
+    color: #0F0;
     padding: 0 0 20px 0;
+    text-shadow: 0 0 10px #0F0;
 }
 
 footer ul {
@@ -71,10 +81,11 @@ footer ul {
     list-style: none;
     padding-top: 8px;
     padding-bottom: 8px;
+    /*
     border-style: solid;
     border-width: 2px;
-    border-color: #FFFFFF;
-    /*animation-name: bor;
+    border-color: #0F0;
+    animation-name: bor;
     animation-duration: 0.01s;
     animation-iteration-count: infinite;*/
 }
@@ -85,7 +96,8 @@ footer li{
 
 .content {
     text-align: justify;
-    color: #FFFFFF;
+    color: #0F0;
+    text-shadow: 0 0 10px #0F0;
     /*animation-name: letcol;
     animation-duration: 0.01s;
     animation-iteration-count: infinite;*/ 
@@ -94,9 +106,9 @@ footer li{
 
 .content ul {
     list-style: none;
-    border-style: solid;
-    border-width: 2px;
-    border-color: #FFFFFF;
+    /*border-style: solid;*/
+   /* border-width: 2px;*/
+    /*border-color: #0F0;*/
     padding: 8px;
     padding-top: 8px;
     padding-bottom: 8px;
@@ -114,7 +126,8 @@ footer li{
 
 .contact {
     text-align: center;
-    color: #FFFFFF;
+    color: #0F0;
+    text-shadow: 0 0 10px #0F0;
 }
 
 .contact ul {
@@ -134,13 +147,13 @@ p {
     padding-bottom: 8px;
     padding-left: 8px;
     padding-right: 8px;
+    /*
     border-style: solid;
     border-width: 2px;
-    border-color: #FFFFFF;
-    /*animation-name: bor;
-    animation-duration: 0.01s;
-    animation-iteration-count: infinite;*/
+    border-color: #0F0;
+    */
 }
+
 /*
 @keyframes bor {
     from {border-color: #FFFFFF;}
@@ -156,14 +169,15 @@ div.gallery {
 /*
   div.gallery:hover {
     border: 1px solid #777;
-  
+  }
   
   div.gallery img {
     width: 100%;
     height: auto;
   }
-  */
+  
   div.desc {
     padding: 15px;
     text-align: center;
   }
+  */
